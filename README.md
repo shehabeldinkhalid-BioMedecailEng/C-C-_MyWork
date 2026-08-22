@@ -20,26 +20,23 @@ The repository includes different projects and assignments covering:
 - GUI-based C++ Applications
 - Practical University Assignments
 
-## 💻 Projects
+### 💻 Projects
 # Some of the projects included in this repository:
-
-<img width="973" height="975" alt="Screenshot 2026-08-22 170730" src="https://github.com/user-attachments/assets/d159b577-9249-4b55-ae5a-28f37d4bdd02" />
-
-<img width="692" height="422" alt="Cinema Project Flow Chart" src="https://github.com/user-attachments/assets/b4e48122-1cd1-4390-8703-9500a1990d72" />
 <img width="1196" height="842" alt="Amit C final project" src="https://github.com/user-attachments/assets/00aec4b4-2013-4cd7-b1ab-cf2294b5d083" />
-<img width="750" height="629" alt="Screenshot 2026-08-22 164235" src="https://github.com/user-attachments/assets/3fb017ac-49f2-4d5a-981a-ea7e529da3fc" />
-
 ### 🩸 Blood Bank Management System
 A C-based project designed to manage blood bank information and operations.
+<img width="750" height="629" alt="Screenshot 2026-08-22 164235" src="https://github.com/user-attachments/assets/3fb017ac-49f2-4d5a-981a-ea7e529da3fc" />
 
 ### 🏨 Hotel Management System
 A C++ application focused on managing hotel-related operations and information.
+<img width="973" height="975" alt="Screenshot 2026-08-22 170730" src="https://github.com/user-attachments/assets/d159b577-9249-4b55-ae5a-28f37d4bdd02" />
 
 ### 👥 Staff Management System
 A C++ project for managing staff information and performing different management operations.
 
 ### 🎬 Cinema Management System
 A project developed to handle cinema-related operations and management.
+<img width="692" height="422" alt="Cinema Project Flow Chart" src="https://github.com/user-attachments/assets/b4e48122-1cd1-4390-8703-9500a1990d72" />
 
 ### 📚 Data Structures
 Implementations and practical exercises covering fundamental data structure concepts using C/C++.
