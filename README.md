@@ -21,8 +21,8 @@ The repository includes different projects and assignments covering:
 - Practical University Assignments
 
 ## 💻 Projects
-Some of the projects included in this repository:
-![Uploading Screenshot 2026-08-22 170530.png…]()
+# Some of the projects included in this repository:
+
 <img width="973" height="975" alt="Screenshot 2026-08-22 170730" src="https://github.com/user-attachments/assets/d159b577-9249-4b55-ae5a-28f37d4bdd02" />
 
 <img width="692" height="422" alt="Cinema Project Flow Chart" src="https://github.com/user-attachments/assets/b4e48122-1cd1-4390-8703-9500a1990d72" />
