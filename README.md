@@ -21,8 +21,13 @@ The repository includes different projects and assignments covering:
 - Practical University Assignments
 
 ## 💻 Projects
-
 Some of the projects included in this repository:
+![Uploading Screenshot 2026-08-22 170530.png…]()
+<img width="973" height="975" alt="Screenshot 2026-08-22 170730" src="https://github.com/user-attachments/assets/d159b577-9249-4b55-ae5a-28f37d4bdd02" />
+
+<img width="692" height="422" alt="Cinema Project Flow Chart" src="https://github.com/user-attachments/assets/b4e48122-1cd1-4390-8703-9500a1990d72" />
+<img width="1196" height="842" alt="Amit C final project" src="https://github.com/user-attachments/assets/00aec4b4-2013-4cd7-b1ab-cf2294b5d083" />
+<img width="750" height="629" alt="Screenshot 2026-08-22 164235" src="https://github.com/user-attachments/assets/3fb017ac-49f2-4d5a-981a-ea7e529da3fc" />
 
 ### 🩸 Blood Bank Management System
 A C-based project designed to manage blood bank information and operations.
